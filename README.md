@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Doondi2264/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/Doondi2264/leetcode-solutions/tree/master/0860-lemonade-change) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/Doondi2264/leetcode-solutions/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
