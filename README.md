@@ -37,8 +37,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/Doondi2264/leetcode-solutions/tree/master/0860-lemonade-change) |
+| [0997-find-the-town-judge](https://github.com/Doondi2264/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 ## Greedy
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/Doondi2264/leetcode-solutions/tree/master/0860-lemonade-change) |
+## Hash Table
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Doondi2264/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Doondi2264/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
