@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/Doondi2264/leetcode-solutions/tree/master/0520-detect-capital) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Doondi2264/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Tree
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/Doondi2264/leetcode-solutions/tree/master/0860-lemonade-change) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Doondi2264/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Doondi2264/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Doondi2264/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
