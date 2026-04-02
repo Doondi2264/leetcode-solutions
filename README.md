@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Doondi2264/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [2396-strictly-palindromic-number](https://github.com/Doondi2264/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 ## Recursion
 |  |
 | ------- |
@@ -60,9 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2396-strictly-palindromic-number](https://github.com/Doondi2264/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Doondi2264/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Matrix
 |  |
 | ------- |
 | [3643-flip-square-submatrix-vertically](https://github.com/Doondi2264/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Doondi2264/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
