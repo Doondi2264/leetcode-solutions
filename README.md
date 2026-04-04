@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Doondi2264/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0520-detect-capital](https://github.com/Doondi2264/leetcode-solutions/tree/master/0520-detect-capital) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Doondi2264/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Doondi2264/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Tree
 |  |
@@ -77,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Doondi2264/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Doondi2264/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 <!---LeetCode Topics End-->
