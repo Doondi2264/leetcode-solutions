@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Doondi2264/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Doondi2264/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [2396-strictly-palindromic-number](https://github.com/Doondi2264/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Doondi2264/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Recursion
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0860-lemonade-change](https://github.com/Doondi2264/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0997-find-the-town-judge](https://github.com/Doondi2264/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Doondi2264/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Doondi2264/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Doondi2264/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Doondi2264/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Brainteaser
 |  |
@@ -79,4 +82,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Doondi2264/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Doondi2264/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Doondi2264/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 <!---LeetCode Topics End-->
