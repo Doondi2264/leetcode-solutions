@@ -84,6 +84,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Doondi2264/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0874-walking-robot-simulation](https://github.com/Doondi2264/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
+| [2069-walking-robot-simulation-ii](https://github.com/Doondi2264/leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Doondi2264/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Doondi2264/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+## Design
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/Doondi2264/leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
 <!---LeetCode Topics End-->
