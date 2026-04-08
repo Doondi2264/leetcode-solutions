@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Doondi2264/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Doondi2264/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Doondi2264/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0441-arranging-coins](https://github.com/Doondi2264/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [2396-strictly-palindromic-number](https://github.com/Doondi2264/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Doondi2264/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Recursion
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0401-binary-watch](https://github.com/Doondi2264/leetcode-solutions/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Doondi2264/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/Doondi2264/leetcode-solutions/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
