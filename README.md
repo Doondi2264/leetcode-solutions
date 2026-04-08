@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/Doondi2264/leetcode-solutions/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/Doondi2264/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/Doondi2264/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [0997-find-the-town-judge](https://github.com/Doondi2264/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Doondi2264/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Doondi2264/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Doondi2264/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Doondi2264/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Brainteaser
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Doondi2264/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0867-transpose-matrix](https://github.com/Doondi2264/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/Doondi2264/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [2069-walking-robot-simulation-ii](https://github.com/Doondi2264/leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Doondi2264/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
