@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Doondi2264/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Doondi2264/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0520-detect-capital](https://github.com/Doondi2264/leetcode-solutions/tree/master/0520-detect-capital) |
+| [1189-maximum-number-of-balloons](https://github.com/Doondi2264/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Doondi2264/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Doondi2264/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Tree
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/Doondi2264/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [0997-find-the-town-judge](https://github.com/Doondi2264/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [1189-maximum-number-of-balloons](https://github.com/Doondi2264/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Graph Theory
 |  |
 | ------- |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Doondi2264/leetcode-solutions/tree/master/0441-arranging-coins) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Doondi2264/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
