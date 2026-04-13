@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Doondi2264/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0520-detect-capital](https://github.com/Doondi2264/leetcode-solutions/tree/master/0520-detect-capital) |
 | [1189-maximum-number-of-balloons](https://github.com/Doondi2264/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Doondi2264/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Doondi2264/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Doondi2264/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Tree
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Doondi2264/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Doondi2264/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 <!---LeetCode Topics End-->
