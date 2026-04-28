@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Doondi2264/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Doondi2264/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/Doondi2264/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Doondi2264/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [2396-strictly-palindromic-number](https://github.com/Doondi2264/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Doondi2264/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Recursion
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Doondi2264/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Doondi2264/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/Doondi2264/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Doondi2264/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0997-find-the-town-judge](https://github.com/Doondi2264/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Doondi2264/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2463-minimum-total-distance-traveled](https://github.com/Doondi2264/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Doondi2264/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Doondi2264/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Doondi2264/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Doondi2264/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Brainteaser
@@ -196,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2463-minimum-total-distance-traveled](https://github.com/Doondi2264/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
+## Geometry
+|  |
+| ------- |
+| [0892-surface-area-of-3d-shapes](https://github.com/Doondi2264/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
