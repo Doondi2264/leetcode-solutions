@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Doondi2264/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Doondi2264/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0069-sqrtx](https://github.com/Doondi2264/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Doondi2264/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/Doondi2264/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [2396-strictly-palindromic-number](https://github.com/Doondi2264/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Doondi2264/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/Doondi2264/leetcode-solutions/tree/master/0441-arranging-coins) |
 ## Counting
 |  |
