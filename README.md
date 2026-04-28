@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Doondi2264/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Doondi2264/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Doondi2264/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/Doondi2264/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Doondi2264/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Doondi2264/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Doondi2264/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Doondi2264/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0520-detect-capital](https://github.com/Doondi2264/leetcode-solutions/tree/master/0520-detect-capital) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Doondi2264/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0874-walking-robot-simulation](https://github.com/Doondi2264/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [0997-find-the-town-judge](https://github.com/Doondi2264/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/Doondi2264/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
